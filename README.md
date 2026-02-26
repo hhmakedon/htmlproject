@@ -1,4 +1,4 @@
-# htmlproject
+# Mr Makedon's Birthday Project Website
 
 This project is a student Web or App Development assignment.
 
